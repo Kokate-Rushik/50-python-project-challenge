@@ -30,14 +30,10 @@ To ensure maximum learning and engineering discipline, I am following these five
 |:---:|:---|:---|:---:|:---|
 | 01 | [Personal Diary](./01_personal_diary/) | CLI & File I/O | ✅ | Python, `datetime` |
 
-*(Legend: ✅ Completed | ⏳ In Progress | ⚪ Not Started)*
+*(Legend: ✅ Completed | ⏳ In Progress | ⚪ Not Started)*<br>
 *Note: More projects will be added to this list as I progress through Phase 2-5.*
 
 ---
-
-## 💡 Motivation (Marathi)
-* **Interview Mastery:** Jeva interview madhe prashna yetil, teva tu ratta marun uttar nahi denars. Tu tujhya real experience madhun bolshil je tu magchya 6 mahinyat swatach solve kela aahe.
-* **Resume Game-Changer:** Imagine kar, jithe baki candidates chya resume madhe fakt 4-5 basic projects astat, tithe tujhyakade 50 projects chi purna list asel. Tujha resume bheed me alag hi chamkega.
 
 
 ## ⚙️ Installation
