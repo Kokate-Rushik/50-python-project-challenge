@@ -4,7 +4,7 @@ A simple Command Line Interface (CLI) to create and manage your thoughts with au
 
 ## 📝 Description
 
-As a part of **50 Python Project Challenge**, it is the 1st project. The goal of this project is the to get familar with file I/O (Input and Output) in Python. The app allows to write entries in .txt file, ensuring that each entries is preceded with exact data and time of creation
+As a part of **50 Python Project Challenge**, it is the 1st project. The goal of this project is the to get familiar with file I/O (Input and Output) in Python. The app allows to write entries in .txt file, ensuring that each entries is preceded with exact data and time of creation
 
 ## 🚀 Features
 * **Write-Entries** - Takes Title and Content as input directly from the terminal
