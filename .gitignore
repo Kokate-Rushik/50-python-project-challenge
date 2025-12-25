@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (DO NOT PUSH THESE)
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code / IDE stuff
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific data you want to keep private
+diary.txt
+*.log
