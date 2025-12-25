@@ -14,7 +14,7 @@ class DiaryPage:
         self.title = input("Enter Title:- ")
         self.content = input("Write your diary page:- ")
         
-
+ 
 if __name__ == "__main__":
     print("My Diary!!!")
     while True:
