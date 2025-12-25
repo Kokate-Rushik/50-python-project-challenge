@@ -28,7 +28,7 @@ To ensure maximum learning and engineering discipline, I am following these five
 
 | No. | Project Name | Category | Status | Tech Stack |
 |:---:|:---|:---|:---:|:---|
-| 01 | [Personal Diary](./01_personal_diary/) | CLI & File I/O | ⏳ | Python, `datetime` |
+| 01 | [Personal Diary](./01_personal_diary/) | CLI & File I/O | ✅ | Python, `datetime` |
 
 *(Legend: ✅ Completed | ⏳ In Progress | ⚪ Not Started)*
 *Note: More projects will be added to this list as I progress through Phase 2-5.*
