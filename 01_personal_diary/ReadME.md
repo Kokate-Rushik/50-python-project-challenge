@@ -37,7 +37,7 @@ As a part of **50 Python Project Challenge**, it is the 1st project. The goal of
 2. **Run the Application**
    ![Run the Application](./assets/RunTheApp.png)
 
-
+\
 ## ✍️ **Author**
 * Kokate Rushik
 * Challenge: 50 Python Project in 6 months
