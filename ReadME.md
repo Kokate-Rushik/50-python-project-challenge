@@ -26,9 +26,20 @@ To ensure maximum learning and engineering discipline, I am following these five
 
 ## 📊 Progress Tracker
 
+### Phase 1: The Basic & CLI
+
 | No. | Project Name | Category | Status | Tech Stack |
 |:---:|:---|:---|:---:|:---|
 | 01 | [Personal Diary](./01_personal_diary/) | CLI & File I/O | ✅ | Python, `datetime` |
+| 02 | [Unit Converter](./02_unit_converter/) | CLI & Data Mapping | ✅ | Python, `InquirerPy` |
+| 03 | [Password Generator](./) | CLI & Randomization | ⏳ | Python, `InquirerPy`, `random`, `string` |
+| 04 | [Expense Tracker](./) | CLI & Data Persistence (CSV) | ⚪ | - |
+| 05 | [Task Timer](./) | CLI & Time Management | ⚪ | - |
+| 06 | [Bulk File Renamer](./) | CLI & OS Authentication | ⚪ | - |
+| 07 | [Contact Book](./) | CLI & Data Serialization (JSON) | ⚪ | - |
+| 08 | [Hangman Game](./) | CLI & Game Logic/Strings | ⚪ | - |
+| 09 | [Markdown to HTML](./) | CLI & String Parsing | ⚪ | - |
+| 10 | [Desktop Notifier](./) | CLI & System Integration | ⚪ | - |
 
 *(Legend: ✅ Completed | ⏳ In Progress | ⚪ Not Started)*<br>
 *Note: More projects will be added to this list as I progress through Phase 2-5.*
