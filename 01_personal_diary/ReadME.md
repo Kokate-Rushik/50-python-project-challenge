@@ -4,10 +4,11 @@ A simple Command Line Interface (CLI) to create and manage your thoughts with au
 
 ## 📝 Description
 
-As a part of **50 Python Project Challenge**, it is the 1st project. The goal of this project is the to get familiar with file I/O (Input and Output) in Python. The app allows to write entries in .txt file, ensuring that each entries is preceded with exact data and time of creation
+As a part of **50 Python Project Challenge**, it is the 1st project. The goal of this project is to get familiar with file I/O (Input and Output) in Python. The app allows to write entries in .txt file, ensuring that each entries is preceded with exact data and time of creation
 
 ## 🚀 Features
 * **Write-Entries** - Takes Title and Content as input directly from the terminal
+* **Interactive CLI** - Utilizes InquirerPy for a modern command-line interface, featuring arrow-key navigation and auto-complete selection.
 * **Auto-TimeStamp** - Using datetime module to create timestamp at the time of saving the entry.
 * **Save as txt file** - Saves each entry as text file with filename format of "YYYY-MM-DD HH-MM-SS.txt"
 * **Diary Page** - Each entry is stored an individual Diary Page.
@@ -32,12 +33,12 @@ As a part of **50 Python Project Challenge**, it is the 1st project. The goal of
 ## 📸 **Demo**
 
 1. **Installation Guide**
-   ![Installation Guide](./assets/InstallationGuide.png)
+   ![Installation Guide](./assets/Installation_Guide.png)
 
 2. **Run the Application**
    ![Run the Application](./assets/RunTheApp.png)
 
-\
+
 ## ✍️ **Author**
 * Kokate Rushik
 * Challenge: 50 Python Project in 6 months
