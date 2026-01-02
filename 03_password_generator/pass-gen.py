@@ -49,7 +49,7 @@ else:
     ask user for len of passwd, default 12
     ask user for charsets to include, default include all (lowercase, uppercase, digits and punctuations)
     ask user count of passwd per generation
-    ask user does he/she wants to copy passwd directly to clipboard. only ask if count == 1
+    ask user does he/she wants to copy passwd directly to clipboard. Only ask if count == 1 
     '''
     pass
 
