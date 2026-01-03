@@ -32,7 +32,7 @@ To ensure maximum learning and engineering discipline, I am following these five
 |:---:|:---|:---|:---:|:---|
 | 01 | [Personal Diary](./01_personal_diary/) | CLI & File I/O | ✅ | Python, `datetime` |
 | 02 | [Unit Converter](./02_unit_converter/) | CLI & Data Mapping | ✅ | Python, `InquirerPy` |
-| 03 | [Password Generator](./03_password_generator/) | CLI & Randomization | ✅ | Python, `InquirerPy`, `secrets`, `string`, `argsparse`, `InquirerPy` |
+| 03 | [Password Generator](./03_password_generator/) | CLI & Randomization | ✅ | Python, `InquirerPy`, `secrets`, `string`, `argsparse`|
 | 04 | [Expense Tracker](./04_expense_tracker/) | CLI & Data Persistence (CSV) | ⏳ | - |
 | 05 | [Task Timer](./) | CLI & Time Management | ⚪ | - |
 | 06 | [Bulk File Renamer](./) | CLI & OS Authentication | ⚪ | - |
