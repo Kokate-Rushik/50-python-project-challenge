@@ -33,7 +33,7 @@ This application uses the `secrets` module - the industry standard for security 
 2. **Run the application**
 * **Flag Mode**
 
-        Available flags
+    Available flags
 
     | Flag | Description |
     |:---:|:---|
